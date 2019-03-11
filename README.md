@@ -1,2 +1,2 @@
-# Jake-Memory-Game
+# wdi-fundamentals-memorygame
 GA memory game assignment.
